@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emmanuel Okolie</h1>
+<h1 align="center">Hi 👋, I'm Emmanuel C. Okolie</h1>
 <h3 align="center">A software developer and instructor specializing on PHP and JavaScript.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmykolic&label=Profile%20views&color=0e75b6&style=flat" alt="emmykolic" /> </p>
