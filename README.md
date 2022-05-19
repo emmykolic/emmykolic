@@ -25,9 +25,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
--[https://dev.to/emmykolic/how-to-code-an-incremental-button-using-vanilla-javascript-42le](https://dev.to/emmykolic/how-to-code-an-incremental-button-using-vanilla-javascript-42le)
-- [https://dev.to/emmykolic/how-to-make-a-word-count-tool-with-vanilla-javascript-285n](https://dev.to/emmykolic/how-to-make-a-word-count-tool-with-vanilla-javascript-285n)
--[(https://dev.to/emmykolic/how-to-make-a-word-count-tool-with-vanilla-javascript-285n)](https://dev.to/emmykolic/how-to-solve-php-parsesyntax-errors-3a9n)
+-[how-to-code-an-incremental-button-using-vanilla-javascript](https://dev.to/emmykolic/how-to-code-an-incremental-button-using-vanilla-javascript-42le)
+- [how-to-make-a-word-count-tool-with-vanilla-javascript](https://dev.to/emmykolic/how-to-make-a-word-count-tool-with-vanilla-javascript-285n)
+-[how-to-make-a-word-count-tool-with-vanilla-javascript](https://dev.to/emmykolic/how-to-solve-php-parsesyntax-errors-3a9n)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
