@@ -25,16 +25,16 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
--[how-to-code-an-incremental-button-using-vanilla-javascript](https://dev.to/emmykolic/how-to-code-an-incremental-button-using-vanilla-javascript-42le)
+- [how-to-code-an-incremental-button-using-vanilla-javascript](https://dev.to/emmykolic/how-to-code-an-incremental-button-using-vanilla-javascript-42le)
 - [how-to-make-a-word-count-tool-with-vanilla-javascript](https://dev.to/emmykolic/how-to-make-a-word-count-tool-with-vanilla-javascript-285n)
--[how-to-make-a-word-count-tool-with-vanilla-javascript](https://dev.to/emmykolic/how-to-solve-php-parsesyntax-errors-3a9n)
+- [how-to-make-a-word-count-tool-with-vanilla-javascript](https://dev.to/emmykolic/how-to-solve-php-parsesyntax-errors-3a9n)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/emmykolic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="emmykolic" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/emmanuel-okolie-435588238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emmanuel-okolie-435588238/" height="30" width="40" /></a>
-<a href="https://fb.com/https://facebook.com/emmanuel.okolie.56481/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/emmanuel.okolie.56481/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/emmanuel-okolie-435588238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emmanuel-okolie-435588238/" height="30" width="40" /></a>
+<a href="https://fb.com/emmanuel.okolie.56481/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/emmanuel.okolie.56481/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
