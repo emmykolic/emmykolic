@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Uren (e-commerce)**
 
-- 🌱 I’m currently learning **Boiler PHP framework**
+- 🌱 I’m currently learning **Laravel PHP framework**
 
 - 👨‍💻 All of my projects are available at [https://emmykolic.github.io](https://emmykolic.github.io)
 
@@ -21,10 +21,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/emmanuelc.okolie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emmanuelc.okolie" height="30" width="40" /></a>
+<a href="https://web.facebook.com/emmanuel.okolie.56481/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emmanuelc.okolie" height="30" width="40" /></a>
 </p>
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
@@ -37,4 +38,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmykolic&show_icons=true&locale=en" alt="emmykolic" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emmykolic&" alt="emmykolic" /></p>
-
