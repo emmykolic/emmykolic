@@ -1,3 +1,5 @@
+![Banner](https://media-exp1.licdn.com/dms/image/C4D16AQHCtvfdQ_pxAg/profile-displaybackgroundimage-shrink_200_800/0/1660317295546?e=1665619200&v=beta&t=IXdleNrQ9Ills2RDe-n2BNc_49e1BhZT7PZID4tx3bQ)
+
 <h1 align="center">Hi 👋, I'm Emmanuel C. Okolie</h1>
 <h3 align="center">A software developer and instructor specializing on PHP and JavaScript.</h3>
 
