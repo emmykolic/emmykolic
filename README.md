@@ -1,6 +1,4 @@
-![Banner](https://www.canva.com/design/DAFJNEEl3-g/KCcgpaepeNm-VynaOsudqw/view?utm_content=DAFJNEEl3-g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-
-https://www.canva.com/design/DAFJNEEl3-g/KCcgpaepeNm-VynaOsudqw/view?utm_content=DAFJNEEl3-g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+![Banner](https://res.cloudinary.com/practicaldev/image/fetch/s---mr01qj4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/msfpwjoncpf5rzc85k6v.png)
 
 <h1 align="center">Hi 👋, I'm Emmanuel C. Okolie</h1>
 <h3 align="center">A software developer and instructor specializing on PHP and JavaScript.</h3>
