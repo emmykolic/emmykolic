@@ -29,7 +29,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to generate the image: using PHP GD Library. &lpar;part 1&rpar;](https://dev.to/emmykolic/how-to-generate-the-image-using-php-gd-library-part-1-c78)
+- [How to generate an image: using PHP GD Library. &lpar;part 1&rpar;](https://dev.to/emmykolic/how-to-generate-the-image-using-php-gd-library-part-1-c78)
 - [How To Find and Fix Ajax Errors using the Network Tab](https://dev.to/emmykolic/how-to-find-and-fix-ajax-errors-using-the-network-tab-49np)
 - [How To Prevent SQL Injection In PHP: Three Essential Methods](https://dev.to/emmykolic/how-to-prevent-sql-injection-in-php-three-essential-methods-iah)
 - [How to solve PHP parse/syntax errors](https://dev.to/emmykolic/how-to-solve-php-parsesyntax-errors-3a9n)
