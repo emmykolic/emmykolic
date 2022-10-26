@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **emmanuelokolie550@gmail.com**
 
-- 📄 Know about my experiences [https://emmykolic.github.io/asset/Emmanuel-Okolie's-CV.pdf](https://emmykolic.github.io/asset/Emmanuel-Okolie's-CV.pdf)
+- 📄 Know about my experiences [Resume](https://emmykolic.github.io/asset/Emmanuel-Okolie's-CV.pdf)
 
 - ⚡ Fun fact **I like superman over captain America**
 
