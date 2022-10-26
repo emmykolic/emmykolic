@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://emmykolic.github.io](https://emmykolic.github.io)
 
-- 📝 I regularly write articles on [http://dev.to](http://dev.to)
+- 📝 I regularly write articles on [Dev.to](http://dev.to/emmykolic)
 
 - 💬 Ask me about **PHP development**
 
