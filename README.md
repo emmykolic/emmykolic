@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel C. Okolie</h1>
 <h3 align="center">A software developer and instructor specializing on PHP and JavaScript.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emmykolic&label=Profile%20views&color=0e75b6&style=flat" alt="emmykolic" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmykolic&label=Profile%20views&color=0e75b6&style=flat" alt="emmykolic" /> </p> -->
 
 - 🔭 I’m currently working on **Uren (e-commerce)**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://emmykolic.github.io](https://emmykolic.github.io)
 
-- 📝 I regularly write articles on [Dev.to](http://dev.to/emmykolic)
+- 📝 I regularly write articles on **[Dev.to](http://dev.to/emmykolic)**
 
 - 💬 Ask me about **PHP development**
 
