@@ -29,11 +29,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Use Mod_Rewrite To Remove Your &lpar;.PHP&rpar; Extension From Your Work](https://dev.to/emmykolic/how-to-use-modrewrite-to-remove-your-php-extension-from-your-work-nfc)
 - [How To Master JavaScript DOM: Beginners Guide](https://dev.to/emmykolic/how-to-master-javascript-dom-beginners-guide-353c)
 - [What You Should Know About JavaScript pop&lpar;&rpar; function for beginners](https://dev.to/emmykolic/what-you-should-know-about-javascript-pop-function-for-beginners-3k9g)
 - [What You Should Know About PHP Mod_Rewrite And Mod_Security.](https://dev.to/emmykolic/what-you-should-know-about-php-modrewrite-and-modsecurity-2154)
 - [How to Build A Captcha with PHP GD Library &lpar;Part 3&rpar;](https://dev.to/emmykolic/how-to-build-a-captcha-with-php-gd-library-part-3-1l7i)
-- [How To Create A Watermark Image Using PHP GD Library &lpar;Part 2&rpar;](https://dev.to/emmykolic/how-to-create-a-watermark-image-using-php-gd-library-part-2-3j16)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
