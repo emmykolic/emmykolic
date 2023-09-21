@@ -29,11 +29,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Efficient API Interaction And Consumption With Laravel: A Beginner&#39;s Guide](https://dev.to/emmykolic/efficient-api-interaction-and-consumption-with-laravel-a-guide-1ghk)
 - [Cookies-Based Authentication Vs Session-Based Authentication](https://dev.to/emmykolic/cookies-based-authentication-vs-session-based-authentication-1f6)
 - [How To Build Random Quotes Project Using Vanilla JavaScript](https://dev.to/emmykolic/how-to-build-random-quotes-project-using-vanilla-javascript-5278)
 - [How To Use Mod_Rewrite To Remove Your &lpar;.PHP&rpar; Extension From Your Work](https://dev.to/emmykolic/how-to-use-modrewrite-to-remove-your-php-extension-from-your-work-nfc)
 - [How To Master JavaScript DOM: Beginners Guide](https://dev.to/emmykolic/how-to-master-javascript-dom-beginners-guide-353c)
-- [What You Should Know About JavaScript pop&lpar;&rpar; function for beginners](https://dev.to/emmykolic/what-you-should-know-about-javascript-pop-function-for-beginners-3k9g)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
