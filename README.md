@@ -29,11 +29,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [From Click to Doorstep in a Flash: Hyperzod&#39;s Hyperlocal Solution Promises Warp Speed Delivery](https://dev.to/emmykolic/from-click-to-doorstep-in-a-flash-hyperzods-hyperlocal-solution-promises-wrap-speed-delivery-1cop)
 - [POV: What Is The Weirdest Thing You Know About The Framework LARAVEL](https://dev.to/emmykolic/pov-what-is-the-weirdest-thing-you-know-about-the-framework-laravel-1bjl)
 - [How To Use WebRTC With Laravel](https://dev.to/emmykolic/how-to-use-webrtc-with-laravel-34m6)
 - [How To Make Car Game Using Vanilla JavaScript &lpar;Beginners&rpar;](https://dev.to/emmykolic/how-to-make-car-game-using-vanilla-javascript-beginners-2m0a)
 - [Efficient API Interaction And Consumption With Laravel: A Beginner&#39;s Guide](https://dev.to/emmykolic/efficient-api-interaction-and-consumption-with-laravel-a-guide-1ghk)
+- [Cookies-Based Authentication Vs Session-Based Authentication](https://dev.to/emmykolic/cookies-based-authentication-vs-session-based-authentication-1f6)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
