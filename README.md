@@ -29,11 +29,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Build An Interactive Quiz Project Using Vanilla JavaScript](https://dev.to/emmykolic/how-to-build-an-interactive-quiz-project-using-vanilla-javascript-jdh)
 - [How To Build A YouTube API Connection &lpar;Project&rpar; Using Vanilla JavaScript](https://dev.to/emmykolic/how-to-build-a-youtube-api-connection-project-using-vanilla-javascript-31)
 - [How To Build A Star Rating Project Using Vanilla JavaScript &lpar;For Beginners&rpar;](https://dev.to/emmykolic/how-to-build-a-star-rating-project-using-vanilla-javascript-for-beginners-jch)
 - [How To Use PHP As A Backend Using React For Frontend](https://dev.to/emmykolic/how-to-use-php-as-a-backend-using-react-for-frontend-3dca)
 - [POV: What Is The Weirdest Thing You Know About The Framework LARAVEL](https://dev.to/emmykolic/pov-what-is-the-weirdest-thing-you-know-about-the-framework-laravel-1bjl)
-- [How To Use WebRTC With Laravel](https://dev.to/emmykolic/how-to-use-webrtc-with-laravel-34m6)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
